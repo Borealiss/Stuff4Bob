@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/starwars\swbf3\turrets\rep_antivehicleturret/rep_antivehicleturret"
+	"$phongexponenttexture"  "models/starwars\swbf3\turrets\rep_antivehicleturret/rep_antivehicleturret_exp"
+}
